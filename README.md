@@ -1,6 +1,6 @@
 <h1>JingBao Project</h1>
 <h3>Introduction</h3>
-  <p>   This project is developed by Swift and combined with MongoLab API which is provided MongoDB as a service, it can be running on iPhone and iPad.</p>
+  <p>   This project is developed by Swift and combined with MongoLab API which is provided MongoDB as a service which can be running on iPhone and iPad.</p>
 <h3>Use Case</h3>
   <p>   JingBao is a manufacturer who makes any kind of screws and also takes custom orders from their customers. Project is based on JingBao already got an ERP system which is running well inside the company but they would like to be more quick to response to their customers requirements and improve the process of dealing with an order.</p>
 <h3>Functionality</h3>
