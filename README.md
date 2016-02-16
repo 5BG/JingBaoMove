@@ -13,11 +13,11 @@
   <li>Item</li>
 </ul>
 <h3>JingBao's UI- Autolayout</h3>
-<h6>Functionality</h6>
+<h4>Functionality</h4>
 <img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
-<h6>TakeOrder</h6>
+<h4>TakeOrder</h4>
 <img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
-<h6>Approval</h6>
+<h4>Approval</h4>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalMainPage.png" alt="Approval Table" width="350" height="600"/>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalDetail.png" alt="Menu" width="350" height="600"/>
 <h6>業務夥伴</h6>
