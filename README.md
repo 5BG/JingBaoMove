@@ -22,4 +22,6 @@
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalDetail.png" alt="Menu" width="350" height="600"/>
 <h6>業務夥伴</h6>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/CustomerBasicInfo.png" alt="Menu" width="350" height="600"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/Customer%20Contact.png" alt="Menu" width="350" height="600"/>
+
 
