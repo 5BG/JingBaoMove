@@ -14,4 +14,4 @@
 </ul>
 <h3>JingBao's UI- Autolayout</h3>
 <h6>Functionality</h6>
-<img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/><img src="https://github.com/5BG/JingBaoMove/blob/master/image/JingBao%20Move%20Landscape.jpeg" alt="Menu" width="450" height="250"/>
+<img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
