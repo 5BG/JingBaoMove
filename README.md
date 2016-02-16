@@ -20,3 +20,6 @@
 <h6>Approval</h6>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalMainPage.png" alt="Approval Table" width="350" height="600"/>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalDetail.png" alt="Menu" width="350" height="600"/>
+<h6>業務夥伴</h6>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/CustomerBasicInfo.png" alt="Menu" width="350" height="600"/>
+
