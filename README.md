@@ -15,3 +15,5 @@
 <h3>JingBao's UI- Autolayout</h3>
 <h6>Functionality</h6>
 <img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
+<h6>TakeOrder</h6>
+<img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
