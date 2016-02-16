@@ -18,4 +18,4 @@
 <h6>TakeOrder</h6>
 <img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
 <h6>Approval</h6>
-<img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalDetail.png" alt="Menu" width="350" height="550"/>
