@@ -16,13 +16,17 @@
 <h4>Functionality</h4>
 <img src="https://github.com/5BG/JingBaoIOS/blob/master/image/JingBao%20Application.png" alt="Menu" width="350" height="550"/>
 <h4>TakeOrder</h4>
-<img src="https://github.com/5BG/JingBaoMove/blob/master/image/TakeOrder.Customer.Data.jpeg" alt="Menu" width="350" height="550"/>
-<img src="https://github.com/5BG/JingBaoMove/blob/master/image/SalesDetails.jpeg" alt="Menu" width="350" height="550"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/TakeOrder.Customer.Data.jpeg" alt="Menu" width="350" height="600"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/SalesDetails.jpeg" alt="Menu" width="350" height="600"/>
 <h4>Approval</h4>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalMainPage.png" alt="Approval Table" width="350" height="600"/>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/ApprovalDetail.png" alt="Menu" width="350" height="600"/>
 <h6>Business Partner</h6>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/CustomerBasicInfo.png" alt="Menu" width="350" height="600"/>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/Customer%20Contact.png" alt="Menu" width="350" height="600"/>
+<h4>Around Me</h4>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/Around.Me.png" alt="Menu" width="350" height="600"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/Around.Me.Table.View.png" alt="Menu" width="350" height="600"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/Around.Me.Navigation.png" alt="Menu" width="350" height="600"/>
 
 
