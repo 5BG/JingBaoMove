@@ -29,4 +29,8 @@
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/Around.Me.Table.View.png" alt="Menu" width="350" height="600"/>
 <img src="https://github.com/5BG/JingBaoMove/blob/master/image/Around.Me.Navigation.png" alt="Menu" width="350" height="600"/>
 
+<h4>Item</h4>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/ItemMainPage.png" alt="Menu" width="350" height="600"/>
+<img src="https://github.com/5BG/JingBaoMove/blob/master/image/ItemInfo.png" alt="Menu" width="350" height="600"/>
+
 
